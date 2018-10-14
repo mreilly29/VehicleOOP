@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleOOP", "VehicleOOP\VehicleOOP.csproj", "{7DD32969-23B3-4E19-95B6-EB45BB0AAA72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleOOP.Tests", "VehicleOOP.Tests\VehicleOOP.Tests.csproj", "{3266F95D-896B-48B4-835F-7CC4E258ACC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD32969-23B3-4E19-95B6-EB45BB0AAA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD32969-23B3-4E19-95B6-EB45BB0AAA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD32969-23B3-4E19-95B6-EB45BB0AAA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD32969-23B3-4E19-95B6-EB45BB0AAA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3266F95D-896B-48B4-835F-7CC4E258ACC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3266F95D-896B-48B4-835F-7CC4E258ACC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3266F95D-896B-48B4-835F-7CC4E258ACC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3266F95D-896B-48B4-835F-7CC4E258ACC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67BA3EAE-E27D-4B2E-BCB2-A610F241A54F}
+	EndGlobalSection
+EndGlobal
